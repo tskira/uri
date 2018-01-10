@@ -1,0 +1,1 @@
+print('%i eh o maior' %(max(map(int, input().split()))))
